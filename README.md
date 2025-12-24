@@ -1,2 +1,2 @@
 # the-signal
-A website where you paste a wall of text, and it instantly "sifts" it into a clean, categorized dashboard. No accounts, no data storage (Privacy!), just instant clarity.
+The Pain Point: People are drowning in "Noise." When you see a 2,000-word article, a long Reddit thread, or a messy corporate email, you usually only care about three things: Dates, Action Items, and Links. The Solution: A website where you paste a wall of text, and it instantly "sifts" it into a clean, categorized dashboard. No accounts, no data storage (Privacy!), just instant clarity.
